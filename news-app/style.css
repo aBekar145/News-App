@@ -1,0 +1,19 @@
+body {
+    padding: 20px;
+}
+
+.nav {
+    position: absolute;
+}
+
+.input-field-select {
+    position: relative;
+}
+
+.select-wrapper + label {
+    top: 48px;
+}
+
+.form {
+    margin-top: 80px;
+}
